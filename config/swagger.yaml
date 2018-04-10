@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: zemla4ok/cwp-28
+  title: cwp-28
   version: 1.0.0
 host: localhost
 schemes:
